@@ -1,0 +1,36 @@
+.content {
+	width: 36%;
+    box-shadow: 0px 0px 2px grey;
+    margin: auto;
+	background:white;
+	padding: 20px 27px;
+	border-radius: 7px;
+}
+
+input {
+	width: 100%;
+    padding: 9px 11px;
+    border: 0;
+    border-radius: 5px;
+    margin-bottom: 25px;
+	border: 1px solid #e0e0e0;
+}
+
+#submit {
+	border-radius: 5px;
+    border: none;
+    width: 100%;
+    background: #364591;
+    color: white;
+    padding: 10px 0px;
+	margin-bottom:30px!important;
+}
+
+h2 {
+	margin-top:10px!important;
+	margin-bottom:30px!important;
+}
+
+input-placeholder {
+	color: grey;
+}

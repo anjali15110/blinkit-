@@ -1,0 +1,12 @@
+.hide {
+	position: relative;
+}
+
+.hidenum {
+	width: 46px;
+    height: 43px;
+    background: #ffffff;
+    position: absolute;
+    top: 2px;
+    right: 11px;
+}
